@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Bem vindo a nossa pagina.
 
 _yay_
 
