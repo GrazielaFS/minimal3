@@ -2,59 +2,60 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Leia nossa introdução.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Fast Fancy Developer.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Olá, venho através desta pagina me apresentar e mostra um pouco do meu trabalho.
 
-# Header 1
+# QUEM SOU?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Me chamo Graziela, sou desenvolvedora de aplicativos e formada em outras areas complementares.
 
-## Header 2
+## O QUE FAÇO?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Aplicativos diversos, de acordo com o gosto do cliente;
+> Paginas de interação;
+> Jogos.
 
-### Header 3
+### COM O QUE MEXEMOS?
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// HTML.
+Jakell
+Github
+Ruby
+Fare base
+Vercel
+Ionic
+CMD
+ETC...
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+#### COMO ADQUIRIR?
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Nossos clientes podem esta entrando em contato através das redes sociais abaixo que estaram disponiveis no final da pagina e também pela opção de suporte.
+*   Instagram.
+*   Whatsapp.
+*   Facebook.
+*   Twitter.
+*   E-mail.
 
-##### Header 5
+##### COMO FUNCIONA?
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Ao entrar em contato pegamos todas suas informações necessarias.
+2.  Apresentamos modelos de acordo com as informações recolhidas.
+3.  Com tudo definido passamos o orçamento.
 
-###### Header 6
+###### LINKS DAS NOSSAS REDES SOCIAIS
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| <img src="wahtsapp"/>          | good swedish fish | nice  |
+| <img src="instagram"/> | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
