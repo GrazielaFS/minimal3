@@ -8,11 +8,11 @@ Leia nossa introdução.
 
 Fast Fancy Developer.
 
-Olá, venho através desta pagina me apresentar e mostra um pouco do meu trabalho.
+Olá, venho através desta pagina chamada Fast Fancy Developer cujo significado é densenvolvedora rapida e sofisticada, me apresentar e mostra um pouco do meu trabalho.
 
-# QUEM SOU?
+# O QUE SOU?
 
-Me chamo Graziela, sou desenvolvedora de aplicativos e formada em outras areas complementares.
+Sou desenvolvedora de aplicativos e formada em outras areas complementares.
 
 ## O QUE FAÇO?
 
@@ -60,40 +60,37 @@ Nossos clientes podem esta entrando em contato através das redes sociais abaixo
 | <img src="twitter"/>       | good `zoute` drop | yumm  |
 
 
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+### PONTOS NECESSARIOS QUE DEVE TER:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Imagens/fotos autenticas;
+*   Cores desejadas;
+*   Texto; 
+*   Objetivo;
 
-### And an ordered list:
+### EXIGÊNCIAS:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Pontualidade
+1.  Compromisso
+1.  50% adiantado
+1.  Cumprimento de acordo ou contrato
 
-### And a nested list:
+### O QUE INCLUI NO PACOTE SIMPLES:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
+- Até 10 imagens
+  - De 3 a 5 fontes
+  - 1 video
+    - Texto com 5 paragranfos
+    - Até 5 opções de configuração
+### PACOTE MASTER:
+  -Até 30 imagens
+  -Fontes ilimitadas
+  -2 videos
+  -Texto ilimitado
+  -Até 15 opções de configuração
+  
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -103,23 +100,23 @@ Nossos clientes podem esta entrando em contato através das redes sociais abaixo
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### UM POUCO MAIS SOBRE A AUTORA.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Graziela</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1998</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>JPlanaltina Go</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Preto, vermelho e azul</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Siga nas redes sociais, faça orçamentos e pedidos.
 ```
 
 ```
-The final element.
+Agadecemos pela visita.
 ```
