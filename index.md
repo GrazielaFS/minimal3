@@ -108,7 +108,7 @@ Nossos clientes podem esta entrando em contato através das redes sociais abaixo
 <dt>Born</dt>
 <dd>1998</dd>
 <dt>Birthplace</dt>
-<dd>JPlanaltina Go</dd>
+<dd>Planaltina Go</dd>
 <dt>Color</dt>
 <dd>Preto, vermelho e azul</dd>
 </dl>
