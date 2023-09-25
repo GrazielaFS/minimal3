@@ -91,11 +91,11 @@ Nossos clientes podem esta entrando em contato através das redes sociais abaixo
   -Texto ilimitado
   -Até 15 opções de configuração
   
-### Small image
+### AMOSTRA DE IMAGEM PEQUENA
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### AMOSTRA DE IMAGEM GRANDE
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
